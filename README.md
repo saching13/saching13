@@ -20,7 +20,7 @@
   <tbody>
     <tr>
       <td><img alt="Sachin's Github Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=saching13&show_icons=true&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="500px"/></td>
-      <td rowspan=2><img alt="Sachin's GitHub Repository Contribution stats" src="https://github-contributor-stats.vercel.app/api?username=saching13&limit=20&combine_all_yearly_contributions=true&theme=dark" width="300px"/></td>
+      <td rowspan=2><img alt="Sachin's GitHub Repository Contribution stats" src="https://github-contributor-stats.vercel.app/api?username=saching13&limit=10&combine_all_yearly_contributions=true&theme=dark" width="300px"/></td>
     </tr>
     <tr>
       <td><img alt="Sachin's Top Languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=saching13&layout=compact&theme=dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="500px"/></td>
